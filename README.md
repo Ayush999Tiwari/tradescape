@@ -4,7 +4,7 @@ Built with React, TypeScript, and Tailwind CSS.
 
 # How to Run the Project
 
-Clone the repository and navigate into the project folder.
+Clone the repository and navigate into the project folder or just download the repo locally into your machine and after extracting open it through vs code
 1.) Install the dependencies by doing  npm install and 
 2.)Start the local development server:
    npm run dev
